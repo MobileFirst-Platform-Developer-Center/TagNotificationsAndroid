@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    COPYRIGHT LICENSE: This information contains sample code provided in source code form. You may copy, modify, and distribute
+    these sample programs in any form without payment to IBM® for the purposes of developing, using, marketing or distributing
+    application programs conforming to the application programming interface for the operating platform for which the sample code is written.
+    Notwithstanding anything to the contrary, IBM PROVIDES THE SAMPLE SOURCE CODE ON AN "AS IS" BASIS AND IBM DISCLAIMS ALL WARRANTIES,
+    EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY,
+    FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND ANY WARRANTY OR CONDITION OF NON-INFRINGEMENT. IBM SHALL NOT BE LIABLE FOR ANY DIRECT,
+    INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR OPERATION OF THE SAMPLE SOURCE CODE.
+    IBM HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS OR MODIFICATIONS TO THE SAMPLE SOURCE CODE.
+ -->
+<resources>
+
+    <string name="app_name">NativeAndroidTagNotifications</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="BroadcastInstructionsTitle">Broadcast notification</string>
+    <string name="BroadcastInstructions">To receive a broadcast notification: right-click the PushAdapter folder in the Studio and select \"Run As > Call MobileFirst Adapter\"; Select the \"sendBroadcastNotification\" procedure and provide the notification text in quotation marks, for example: \"test notification\".</string>
+    
+    <string name="TagInstructionsTitle">Tag notifications</string>
+    <string name="TagInstructions">To receive a notification for a specific tag: first subscribe to a tag below, then right-click the PushAdapter folder in the Studio and select \"Run As > Call MobileFirst Adapter\"; Select the \"sendTagNotification\" procedure and provide the notification text and tag name in quotation marks, for example: \"test notification\",\"sample-tag1\" or to notify multiple tags: \"test notification\", \"sample-tag1,sample-tag2\".</string>
+
+    <string name="btnIsPushSupported">isPushSupported</string>
+    <string name="btnSubscribeTag1">Subscribe sample-tag1</string>
+    <string name="btnSubscribeTag2">Subscribe sample-tag2</string>
+    <string name="btnUnsubscribeTag1">Unsubscribe sample-tag1</string>
+    <string name="btnUnsubscribeTag2">Unsubscribe sample-tag2</string>
+    
+    <string name="btnSubscribedTags">isSubscribed</string>
+</resources>
