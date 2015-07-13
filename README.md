@@ -4,7 +4,7 @@ IBM MobileFirst Platform Foundation
 
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
 
