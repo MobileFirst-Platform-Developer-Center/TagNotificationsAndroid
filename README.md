@@ -7,6 +7,9 @@ IBM MobileFirst Platform Foundation
 Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/notifications/push-notifications-overview/push-notification-native-android-applications/
+
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/notifications/push-notifications-overview/push-notification-native-android-applications/tag-based-notifications-in-native-android-applications/
 
 
 ### Supported Levels
