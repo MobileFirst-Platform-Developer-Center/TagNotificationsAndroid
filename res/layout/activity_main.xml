@@ -38,32 +38,6 @@ limitations under the License.
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical" >
-
-                <TextView
-                    android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/BroadcastInstructionsTitle"
-                    android:textSize="22sp" />
-
-                <TextView
-                    android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"
-                    android:text="@string/BroadcastInstructions"
-                    android:textSize="16sp" />
-
-                <TextView
-                    android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingTop="14dp"
-                    android:text="@string/TagInstructionsTitle"
-                    android:textSize="22sp" />
-
-                <TextView
-                    android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingBottom="14dp"
-                    android:text="@string/TagInstructions"
-                    android:textSize="16sp" />
             </LinearLayout>
 
             <LinearLayout
